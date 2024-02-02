@@ -1,10 +1,10 @@
 import React from "react";
-import TestingClass from "./components/TestingClass";
+import TestingRedux from "./components/TestingRedux";
 
 export default function App() {
   return (
     <div>
-      <TestingClass />
+      <TestingRedux />
     </div>
   );
 }
